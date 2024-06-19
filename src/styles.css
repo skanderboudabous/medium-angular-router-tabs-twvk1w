@@ -1,0 +1,20 @@
+/* Add application styles & imports to this file! */
+html {
+  height: 100vH;
+  width: 100vW;
+}
+
+.cursor-pointer {
+  cursor:pointer;
+}
+
+.transition-all-ease-250ms {
+  transition: all ease 250ms;
+}
+.opacity-1 {
+  opacity: 100;
+}
+
+.opacity-0 {
+  opacity: 0;
+}
